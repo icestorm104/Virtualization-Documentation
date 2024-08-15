@@ -4,7 +4,7 @@ description: Learn about Nested Virtualization in Hyper-V, including what it is,
 author: robinharwood
 ms.author: wscontent
 ms.topic: concept-article
-ms.date: 07/31/2024
+ms.date: 08/15/2024
 #CustomerIntent: As a virtualization admin, I was to understand what Nested Virtualization is, so that I apply it to my own environment.
 ---
 
